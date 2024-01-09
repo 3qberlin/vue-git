@@ -1,0 +1,5 @@
+# 忽略 node_moudles 資料夾下的 檔案
+node_modules/
+
+# 忽略 temp.html 檔案
+temp.html
